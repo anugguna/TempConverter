@@ -15,7 +15,7 @@ class InfoViewController: UIViewController {
 
     var infoText = "My home-task was to create a temperature converter, and the current result is:"
     let descResultText = ""
-    //\(celsiusTemp) ºC = \(convertedTempString)"
+    //"\(celsiusTemp) ºC = \(convertedTempString)"
         
         override func viewDidLoad() {
             super.viewDidLoad()
